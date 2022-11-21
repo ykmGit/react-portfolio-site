@@ -1,5 +1,5 @@
 import './App.css';
-// Headerコンポーネントをimportする
+// Headerコンポーネントをimportする。
 import { Header } from './components/Header';
 import { Skills } from './components/Skills';
 import { Contact } from './components/Contact';
